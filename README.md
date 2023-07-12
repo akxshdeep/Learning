@@ -52,7 +52,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Advancements in SDC Training</h1>
+        <h1>Advancements in SDC Training and Learning</h1>
         <ul>
             <li>Proficient in creating captivating Frappe webpages</li>
             <li>Skilled in harnessing the power of Doctype manipulation</li>
@@ -71,12 +71,12 @@
         <div class="sub-heading">
             <h2>Webpages Made:</h2>
             <ul>
-                <li><a href=exp.gndec.ac.in/akash1>Punjabi Music: Folk to Hip-Hop</a></li>
-                <li><a href=exp.gndec.ac.in/akash2>What is Frappe?</a></li>
+                <li><a href="http://exp.gndec.ac.in/akash1">Punjabi Music: Folk to Hip-Hop</a></li>
+                <li><a href="http://exp.gndec.ac.in/akash2">What is Frappe?</a></li>
             </ul>
         </div>
 
-        <p>Thank you for visiting the Advancements in SDC Training webpage. Stay tuned for more updates!</p>
+        <p>Thank you for visiting the Advancements in SDC Training and Learning webpage. Stay tuned for more updates!</p>
     </div>
 </body>
 </html>
