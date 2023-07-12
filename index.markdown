@@ -2,7 +2,7 @@
 
 
 
-This repository showcases the advancements in SDC training. It encompasses various topics and skills acquired during the training process, including the creation of captivating Frappe webpages, harnessing the power of Doctype manipulation, working with site scripts, and completing a comprehensive introductory course in data science. This skill set equips individuals to create dynamic web experiences and leverage data-driven insights for enhanced decision-making.
+This webpage showcases the advancements in SDC training till now. It encompasses various topics and skills acquired during the training process, including the creation of captivating Frappe webpages, harnessing the power of Doctype manipulation, working with site scripts, and completing a comprehensive introductory course in data science. This skill set equips individuals to create dynamic web experiences and leverage data-driven insights for enhanced decision-making.
 
 ---
 
@@ -30,7 +30,7 @@ This repository showcases the advancements in SDC training. It encompasses vario
 
 ---
 
-Thank you for visiting the Advancements in SDC Training and Learning repository. Stay tuned for more updates!
+Thank you for visiting the Advancements in SDC Training and Learning webpage. Stay tuned for more updates!
 
 ---
 
