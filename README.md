@@ -2,8 +2,7 @@
 
 ---
 
-<div align="center">
-    <img src="image.png" alt="SDC Training Logo" width="200"/>
+
 </div>
 
 ---
