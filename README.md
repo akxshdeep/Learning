@@ -2,9 +2,6 @@
 
 
 
-
----
-
 ## Overview
 
 This repository showcases the advancements in self-driving car (SDC) training and learning. It encompasses various topics and skills acquired during the training process, including the creation of captivating Frappe webpages, harnessing the power of Doctype manipulation, working with site scripts, and completing a comprehensive introductory course in data science. This skill set equips individuals to create dynamic web experiences and leverage data-driven insights for enhanced decision-making.
