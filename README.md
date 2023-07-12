@@ -1,9 +1,7 @@
 # Advancements in SDC Training and Learning
 
----
 
 
-</div>
 
 ---
 
